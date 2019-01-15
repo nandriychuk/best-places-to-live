@@ -1,4 +1,4 @@
-Name,rating
+State,Happiness Rating
 South Dakota,64.1
 Vermont,64.1
 Hawaii,63.4
@@ -35,14 +35,14 @@ Kansas,61.2
 Pennsylvania,61.2
 Oregon,61.1
 Illinois,61.1
-South Carolina,61.0
+South Carolina,61
 Alabama,60.8
 Missouri,60.7
 Delaware,60.7
 Rhode Island,60.5
 Indiana,60.4
 Nevada,60.2
-Ohio,60.0
+Ohio,60
 Kentucky,59.8
 Oklahoma,59.7
 Mississippi,59.6
