@@ -1,1 +1,1 @@
-gmaps_api_key = "AIzaSyCecf5FIfHzVTv-XOAikZDKRsaZhucqp2A"
+gmaps_api_key = "GMAPS KEY HERE"
